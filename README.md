@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+| Semester | Repository                                                 |                   Course                   |
+|----------|------------------------------------------------------------|:------------------------------------------:|
+| 5th      | [IAMU](https://github.com/psporcic/mobile-app-development) | Application development for mobile devices |
+| 4th      | [JAVA01](https://github.com/psporcic/java01)               | Java programming 1                         |
+| 4th      | [RWA](https://github.com/psporcic/web-app-development)     | Development of web applications            |
+| 1st      | [URM](https://github.com/psporcic/subnetiranje-urm)        | Introduction to computer networks          |
