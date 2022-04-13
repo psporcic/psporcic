@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **psporcic/psporcic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### College projects
+
 | Semester | Repository                                                 |                   Course                   |
 |----------|------------------------------------------------------------|:------------------------------------------:|
 | 5th      | [IAMU](https://github.com/psporcic/mobile-app-development) | Application development for mobile devices |
